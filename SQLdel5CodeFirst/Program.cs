@@ -66,7 +66,7 @@ namespace SQLdel5CodeFirst
 		{
 			foreach(var product in storeContext._categories)
 			{
-				Console.WriteLine()
+				Console.WriteLine();
 			}
 		}
 		public static void Update()
